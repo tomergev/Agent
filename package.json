@@ -1,0 +1,26 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-masonry": "^0.17.0",
+    "angular-route": "^1.6.5",
+    "angulargrid": "^0.6.5",
+    "angularjs-slider": "^6.2.3",
+    "body-parser": "^1.17.2",
+    "browserify": "^14.4.0",
+    "commonjs": "0.0.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4",
+    "node-rest-client": "^3.1.0",
+    "node-restful": "^0.2.6",
+    "requirejs": "^2.3.4"
+  }
+}
